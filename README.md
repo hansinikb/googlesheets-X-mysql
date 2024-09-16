@@ -1,4 +1,3 @@
-# googlesheets-X-mysql
 # Google Sheets X MySQL
 
 ## Real-time Synchronization Between Google Sheets and MySQL
@@ -100,11 +99,3 @@ python flaskApp.py
 - `flask`  
 - `ngrok`
 
-Install the required dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
-flask
-ngrok
