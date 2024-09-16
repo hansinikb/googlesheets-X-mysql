@@ -1,4 +1,5 @@
 # googlesheets-X-mysql
+Google Sheets X MySQL
 Real-time Synchronization Between Google Sheets and MySQL
 This project provides a solution for real-time synchronization between Google Sheets and a MySQL database. The system ensures that any changes made in either Google Sheets or the MySQL database are reflected in the other, while incorporating features like locking for concurrency and API rate limiting.
 
@@ -7,6 +8,7 @@ Key Features
 ✅ CRUD Operations: Full support for Create, Read, Update, and Delete operations on both platforms.
 ✅ Locking Mechanism: A syn.lock file ensures no simultaneous conflicting updates.
 ✅ Rate Limiting: Manages API requests to prevent overwhelming the Google Sheets API.
+
 Setup Instructions
 Google Sheets Setup
 Obtain Google Sheets API credentials (service account).
